@@ -13,6 +13,7 @@ namespace WebApplicationDemo1.Migrations
                     {
                         id = c.Int(nullable: false, identity: true),
                         name = c.String(),
+                        level = c.String(),
                         _class = c.String(),
                         school = c.String(),
                     })

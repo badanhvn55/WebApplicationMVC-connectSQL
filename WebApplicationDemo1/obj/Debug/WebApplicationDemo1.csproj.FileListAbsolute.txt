@@ -36,7 +36,6 @@ D:\Learn\source\repos\WebApplicationDemo\WebApplicationDemo1\bin\Microsoft.AI.De
 D:\Learn\source\repos\WebApplicationDemo\WebApplicationDemo1\bin\Microsoft.AI.ServerTelemetryChannel.xml
 D:\Learn\source\repos\WebApplicationDemo\WebApplicationDemo1\bin\Microsoft.AI.WindowsServer.xml
 D:\Learn\source\repos\WebApplicationDemo\WebApplicationDemo1\bin\Microsoft.AI.Web.xml
-D:\Learn\source\repos\WebApplicationDemo\WebApplicationDemo1\obj\Debug\WebApplicationDemo1.csprojResolveAssemblyReference.cache
 D:\Learn\source\repos\WebApplicationDemo\WebApplicationDemo1\obj\Debug\WebApplicationDemo1.csproj.CoreCompileInputs.cache
 D:\Learn\source\repos\WebApplicationDemo\WebApplicationDemo1\obj\Debug\WebApplicationDemo1.dll
 D:\Learn\source\repos\WebApplicationDemo\WebApplicationDemo1\obj\Debug\WebApplicationDemo1.pdb

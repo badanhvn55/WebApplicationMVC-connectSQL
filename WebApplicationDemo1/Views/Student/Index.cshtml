@@ -15,6 +15,9 @@
             @Html.DisplayNameFor(model => model.name)
         </th>
         <th>
+            @Html.DisplayNameFor(model => model.level)
+        </th>
+        <th>
             @Html.DisplayNameFor(model => model._class)
         </th>
         <th>
@@ -29,15 +32,18 @@
             @Html.DisplayFor(modelItem => item.name)
         </td>
         <td>
+            @Html.DisplayFor(modelItem => item.level)
+        </td>
+        <td>
             @Html.DisplayFor(modelItem => item._class)
         </td>
         <td>
             @Html.DisplayFor(modelItem => item.school)
         </td>
         <td>
-            @Html.ActionLink("Edit", "Edit", new { id=item.id }) |
-            @Html.ActionLink("Details", "Details", new { id=item.id }) |
-            @Html.ActionLink("Delete", "Delete", new { id=item.id })
+            @Html.ActionLink("Edit", "Edit", new { id = item.id }) |
+            @Html.ActionLink("Details", "Details", new { id = item.id }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.id })
         </td>
     </tr>
 }

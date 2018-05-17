@@ -16,6 +16,8 @@ namespace WebApplicationDemo1.Models
         [DisplayName("Name")]
         //[Required(ErrorMessage = "Student name is required")]
         public string name { get; set; }
+        [DisplayName("Level")]
+        public string level { get; set; }
         [DisplayName("Class")]
         public string _class { get; set; }
         [DisplayName("School")]
